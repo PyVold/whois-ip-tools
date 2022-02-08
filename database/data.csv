@@ -249,4 +249,5 @@
 "ZA","South Africa","South Africa","27","Africa","Pretoria","ZAR","af,en,nr,st,ss,tn,ts,ve,xh,zu"
 "ZM","Zambia","Zambia","260","Africa","Lusaka","ZMW","en"
 "ZW","Zimbabwe","Zimbabwe","263","Africa","Harare","USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY","en,sn,nd"
-"private","Private or Not correct","Private or Not correct","0","N/A","N/A","USD,EGP"
+"private","Private or Not correct","Private or Not correct","20","N/A","N/A","USD,EGP","en,ar"
+"EU","Private or Not correct","Private or Not correct","20","N/A","N/A","USD,EGP","en,ar"
